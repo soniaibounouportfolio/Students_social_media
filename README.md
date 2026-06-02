@@ -2,7 +2,7 @@
 
 # Objectif général de la BD
 
-- Le jeu de données que nous avons choisi vise à analyser l’impact de l’utilisation des réseaux sociaux sur la vie des étudiants, notamment sur leur bien-être mental, leurs relations sociales, leur sommeil et leurs performances académiques. Il permet d’explorer les comportements numériques des jeunes et leurs conséquences sur différents aspects de leur quotidien.
+Le jeu de données que nous avons choisi vise à analyser l’impact de l’utilisation des réseaux sociaux sur la vie des étudiants, notamment sur leur bien-être mental, leurs relations sociales, leur sommeil et leurs performances académiques. Il permet d’explorer les comportements numériques des jeunes et leurs conséquences sur différents aspects de leur quotidien.
 
 
 # Population étudiée
@@ -26,8 +26,7 @@ Chaque ligne correspond à un étudiant, avec ses réponses à un questionnaire.
 
 
 # Le problème 
-
-- De nombreux étudiants déclarent que les réseaux sociaux affectent leur concentration, leur sommeil et leurs relations. L’enjeu est de quantifier et comprendre ces impacts.
+De nombreux étudiants déclarent que les réseaux sociaux affectent leur concentration, leur sommeil et leurs relations. L’enjeu est de quantifier et comprendre ces impacts.
 
 
 # Problématique
