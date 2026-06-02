@@ -1,18 +1,18 @@
-# 📱 Students_Social_Media
+# Students_Social_Media
 
-This project explores the impact of social media usage on students aged 16–25 across multiple countries 🌍. Using survey data collected in early 2025, the dataset examines how social media habits relate to concentration 🧠, sleep quality 😴, social relationships 🤝, mental well-being ❤️, and academic performance 🎓.
+This project explores the impact of social media usage on students aged 16–25 across multiple countries. Using survey data collected in early 2025, the dataset examines how social media habits relate to concentration, sleep quality, social relationships, mental well-being, and academic performance.
 
-## ❓ Research Question
+## Research Question
 
-**To what extent does social media use influence students' concentration, sleep, and social interactions?**
+To what extent does social media use influence students' concentration, sleep, and social interactions?
 
-## 📊 Dataset
+## Dataset
 
-- 👥 **Population:** High school, undergraduate, and postgraduate students
-- 🌎 **Countries:** Bangladesh, India, United States, United Kingdom, Canada, Australia, Germany, Brazil, Japan, and South Korea
-- 📝 **Collection method:** Online survey (Q1 2025)
-- 📈 **Data types:** Quantitative (scores, durations, frequencies) and qualitative (country, Yes/No responses, categories)
+- Population: High school, undergraduate, and postgraduate students
+- Countries: Bangladesh, India, United States, United Kingdom, Canada, Australia, Germany, Brazil, Japan, and South Korea
+- Collection method: Online survey (Q1 2025)
+- Data types: Quantitative (scores, durations, frequencies) and qualitative (country, Yes/No responses, categories)
 
-## 🎯 Objective
+## Objective
 
-Measure and understand the effects of social media usage on students' daily lives, well-being, and academic success.
+Identify and quantify the effects of social media usage on key aspects of students' daily lives and well-being.
